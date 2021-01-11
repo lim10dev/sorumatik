@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\bin\Debug\sorumatik.exe.config
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\bin\Debug\sorumatik.exe
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\bin\Debug\sorumatik.pdb
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.Form1.resources
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.Properties.Resources.resources
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.exe
+C:\Users\ahmet\source\repos\sorumatik\sorumatik\obj\Debug\sorumatik.pdb

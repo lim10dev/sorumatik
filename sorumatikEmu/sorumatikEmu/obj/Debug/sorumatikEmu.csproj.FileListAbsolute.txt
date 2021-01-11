@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\bin\Debug\sorumatikEmu.exe.config
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\bin\Debug\sorumatikEmu.exe
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\bin\Debug\sorumatikEmu.pdb
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.Form1.resources
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.Properties.Resources.resources
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.exe
+C:\Users\ahmet\source\repos\sorumatikEmu\sorumatikEmu\obj\Debug\sorumatikEmu.pdb
